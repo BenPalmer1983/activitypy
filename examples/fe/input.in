@@ -1,0 +1,19 @@
+
+# Data files
+data isotopes="/cloud/Code/python/activity/data/isotopes.pz" xs="/cloud/Code/python/activity/data/talys"
+
+# Sim1
+sim1 run=True exyz="/cloud/Code/python/activity/examples/fe/Fe36MeV.exyz" 
+\target_composition=Fe,100.0 
+\target_depth=0.5,mm 
+\target_density=7808,kgm3 
+\beam_projectile='proton' 
+\beam_energy=36,MeV 
+\beam_area=64,mm2 
+\beam_duration=300,s 
+\beam_current=0.5,uA 
+\end_time=260000,s 
+\inbeampoints=101 
+\outbeampoints=201
+
+

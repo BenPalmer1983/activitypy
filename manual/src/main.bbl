@@ -1,0 +1,157 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{tendl2019}{article}{}
+    \name{author}{6}{}{%
+      {{hash=KA}{%
+         family={Koning},
+         familyi={K\bibinitperiod},
+         given={A.J.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rochman},
+         familyi={R\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sublet},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Dzysiuk},
+         familyi={D\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fleming},
+         familyi={F\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vdMS}{%
+         prefix={van\bibnamedelima der},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Marck},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KA+1}
+    \strng{fullhash}{KARDSJDNFMMSvd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{TENDL: Complete Nuclear Data Library for Innovative Nuclear
+  Science and Technology}
+    \field{volume}{155}
+    \field{journaltitle}{Nuclear Data Sheets}
+    \field{year}{2019}
+  \endentry
+
+  \entry{jeff33}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PA}{%
+         family={Plompen},
+         familyi={P\bibinitperiod},
+         given={A.J.M.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CO}{%
+         family={Cabellos},
+         familyi={C\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=DSJC}{%
+         family={De\bibnamedelima Saint\bibnamedelima Jean},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ea}{%
+         prefix={et},
+         prefixi={e\bibinitperiod},
+         family={al},
+         familyi={a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PA+1}
+    \strng{fullhash}{PACODSJCae1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issue}{181}
+    \field{title}{The JEFF-3.3 Nuclear Data Library}
+    \field{volume}{56}
+    \field{journaltitle}{Eur. Phys. J. A}
+    \field{year}{2020}
+  \endentry
+
+  \entry{srim}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JFZJPBMDZ}{%
+         family={James F.\bibnamedelima Ziegler},
+         familyi={J\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  Z\bibinitperiod},
+         suffix={M.\bibnamedelima D.\bibnamedelima Ziegler},
+         suffixi={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  Z\bibinitperiod},
+         given={J.\bibnamedelima P.\bibnamedelima Biersack},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JFZMDZJPB1}
+    \strng{fullhash}{JFZMDZJPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1818\bibrangedash 1823}
+    \field{title}{SRIM - The stopping and range of ions in matter}
+    \field{volume}{268}
+    \field{journaltitle}{Nuclear Instruments and Methods in Physics Research
+  Section B}
+    \field{year}{2010}
+  \endentry
+
+  \entry{stehfest}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Stehfest},
+         familyi={S\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{47\bibrangedash 49}
+    \field{title}{Algorithm 368: Numerical Inversion of Laplace Transform}
+    \field{volume}{13}
+    \field{journaltitle}{Communications of the ACM}
+    \field{year}{1970}
+  \endentry
+\enddatalist
+\endinput
